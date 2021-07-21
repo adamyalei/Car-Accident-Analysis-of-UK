@@ -1,0 +1,8 @@
+config.js
+build.out
+.DS_Store
+*.xls
+AssociationPattern/data_onehot.csv
+*.csv
+._*
+private.txt

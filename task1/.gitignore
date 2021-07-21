@@ -1,0 +1,7 @@
+config.js
+build.out
+.DS_Store
+*.xls
+*.csv
+._*
+blocks
